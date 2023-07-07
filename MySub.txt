@@ -1,4 +1,4 @@
-vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.8:80?security=none&type=ws&sni=helP.ShOkr.de&path=/whoiam&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_1
+vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.8:80?security=tls&type=ws&sni=helP.ShOkr.de&path=/whoiam&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_1
 vless://168aafcb-e9ed-4ece-8288-5a91e35eb841@95.179.255.218:443?security=tls&type=ws&sni=details.TEHRANSHOP.top&path=/&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_DE_2
 vless://9cd22529-b92a-40de-86c2-591d195a2d55@mtn.msv2ray.space:2083?security=tls&type=grpc&sni=tm.MsV2ray.cfd&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%A6_UA_3
 vless://9fac0e66-13a0-443f-fd7a-8c0b027e4631@mci-msv2ray.ddns.net:2087?security=tls&type=grpc&sni=tm.MsV2ray.fun&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_4
@@ -8,3 +8,5 @@ vless://9cd22529-b92a-40de-86c2-591d195a2d55@mtn.msv2ray.space:2083?security=tls
 vless://9fac0e66-13a0-443f-fd7a-8c0b027e4631@mci-msv2ray.ddns.net:2087?security=tls&type=grpc&sni=tm.MsV2ray.fun&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_8
 vless://1afe8100-acdd-4714-98b4-75d2bda698ce@sp7.kiava.fun:8443?security=tls&type=ws&sni=sp7.kiava.fun&path=/&encryption=none&headerType=none#%F0%9F%87%B8%F0%9F%87%AA_SE_9
 vless://89Parsashonam@wifi.tel-parsashonam.website:2087?security=tls&type=grpc&sni=cloud2.tel-Parsashonam.fun&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%A6_UA_10
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNfMTEiLCJhZGQiOiIxMDQuMTguMS4xOTYiLCJwb3J0Ijo4MCwiaWQiOiIwNDI1ZDAxMC0xOWY2LTExZWUtOGJlNC0xNTc3YzE2NTE2NzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzZy54bWJiLm5ldCIsInBhdGgiOiIvZmlsZXMiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNfMTIiLCJhZGQiOiJjZjMuOTkyNjg4Lnh5eiIsInBvcnQiOjgwODAsImlkIjoiYjBiMTJhZTItMzQ2Yy00ODhiLThkMWUtOWYzYWZiOGZlYWQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaGF4Ljk5MjY4OC54eXoiLCJwYXRoIjoiLyIsInRscyI6IiJ9
